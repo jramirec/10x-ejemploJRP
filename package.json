@@ -1,0 +1,9 @@
+{
+  "name": "servidor-basico",
+  "version": "1.0.0",
+  "description": "Servidor Node simple con HTML y JavaScript",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
